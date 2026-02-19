@@ -1,4 +1,4 @@
-# Swiggi-sales-analysis
+# Swiggy-sales-analysis
 
 ## 📌 Project Overview
 The Swiggy Analysis project focuses on analyzing food delivery data to understand order trends, restaurant performance, customer behavior, and revenue insights.The goal of this project is to extract meaningful business insights using data analysis and visualization techniques to support better decision-making.
