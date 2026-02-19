@@ -42,3 +42,5 @@ The dataset contains Swiggy-related order information including:
 - KPI cards for Orders, Revenue, Average Order Value
 - Bar charts, line charts, and tables for insights
 - User-friendly and business-focused design
+
+![WhatsApp Image 2026-02-19 at 14 02 34](https://github.com/user-attachments/assets/8a545de4-bedb-49d9-b22a-ef7ed312967f)
